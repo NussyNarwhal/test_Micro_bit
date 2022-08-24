@@ -1,5 +1,5 @@
 {
-    "name": "TEST2",
+    "name": "Counter w/ anode",
     "description": "",
     "dependencies": {
         "core": "*",
